@@ -1,4 +1,4 @@
 # hello-world
 my first github repo
-tes ...
-by wihrasa
+tes lagi ...
+ditambahkan oleh wihrasa
